@@ -1,4 +1,4 @@
-const { cmd } = require('../Lwazi')
+const { cmd } = require("../arslan");
 
 cmd({
     pattern: "vv",
