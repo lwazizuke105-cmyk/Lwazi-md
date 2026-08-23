@@ -1,4 +1,4 @@
-const something = require('../arsian');
+const { cmd } = require("../arslan");
 
 cmd({
   pattern: "unblock",
