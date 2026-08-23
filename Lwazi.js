@@ -1,0 +1,2 @@
+// Lwazi.js
+module.exports = {};
