@@ -1,6 +1,6 @@
 const axios = require('axios')
 const yts = require('yt-search')
-const { cmd } = require('../Lwazi')
+const { cmd } = require("../arslan");
 const { fakevCard } = require('../lib/fakevCard')
 
 cmd({
